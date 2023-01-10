@@ -18,18 +18,16 @@
 8 Creamos un documento llamado Dockerfile (vi Dockerfile)
 ![image](https://user-images.githubusercontent.com/91167267/211445872-f648dda6-2fbc-4b60-8d89-8ced9c7abba2.png)
 9 Colocamos el comando docker build -t myapp .
-![image]_(https://user-images.githubusercontent.com/91167267/211445984-4238714f-3545-4003-9a42-7053bbf2191a.png
-10
+![image](https://user-images.githubusercontent.com/91167267/211445984-4238714f-3545-4003-9a42-7053bbf2191a.png
+10 Colocamos el comando (docker run -d --network db_default -p 8081:8081 myapp) y verificamos en localhost:/users y nos deberia salir la tabla
 ![image](https://user-images.githubusercontent.com/91167267/211446810-c599abb8-e892-4437-a690-43f9996fc822.png)
 
 Aplicaccion Frontend
+11 Vamos a la carpeta local y colocamos lo siguiente Colocamos el comando de (git clone git clone https://github.com/maguaman2/securityfe )
 ![image](https://user-images.githubusercontent.com/91167267/211446974-72d90a18-bff6-450a-9bda-604b772be263.png)
-12
+12 Entramos en el nuevo gitclone y creamos un vi Dockerfile
 ![image](https://user-images.githubusercontent.com/91167267/211447231-26017e2a-5535-4ed3-8625-597ecac3ebd3.png)
-
-13
-
-
+13 Colocamos el comando (docker build -t myappfe:latest .) para crear una imagen
 ![image](https://user-images.githubusercontent.com/91167267/211447399-3650b6f0-37da-47e1-8e8f-dfea97baca50.png)
 
 
