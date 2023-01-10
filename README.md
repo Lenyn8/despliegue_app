@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/91167267/211445137-1532782d-3ad4-4da8-b20f-64d94edaeaa3.png)
 3 Ponemos el comando docker ps para ver los contenedores que tenemos ya creados
 ![image](https://user-images.githubusercontent.com/91167267/211445315-3238a610-65ff-4d9e-9cd6-989e8bdef6e7.png)
-4
+4 Colocamos el comando cat docker-compose.yml
 ![image](https://user-images.githubusercontent.com/91167267/211445360-c108674d-b50b-491b-8f14-6cc7fd8e6f26.png)
 5
 ![image](https://user-images.githubusercontent.com/91167267/211445402-a4cc1c28-3ef4-40ec-830c-8e8dff9c0d74.png)
