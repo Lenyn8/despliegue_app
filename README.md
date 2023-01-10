@@ -13,12 +13,12 @@
 ![image](https://user-images.githubusercontent.com/91167267/211445402-a4cc1c28-3ef4-40ec-830c-8e8dff9c0d74.png)
 6 Clonamos el repositorio con (git clone https://github.com/maguaman2/tendencias-mar22-security)
 ![image](https://user-images.githubusercontent.com/91167267/211445736-c8925f8e-1f6f-4605-9000-4c6c45285862.png)
-7
+7 Colocamos un ls para ver los directorios que disponemos
 ![image](https://user-images.githubusercontent.com/91167267/211445769-8e4f91e9-2c55-4fd4-90a9-3f3dd8b247c4.png)
-8
+8 Creamos un documento llamado Dockerfile (vi Dockerfile)
 ![image](https://user-images.githubusercontent.com/91167267/211445872-f648dda6-2fbc-4b60-8d89-8ced9c7abba2.png)
-9
-![image](https://user-images.githubusercontent.com/91167267/211445984-4238714f-3545-4003-9a42-7053bbf2191a.png)
+9 Colocamos el comando docker build -t myapp .
+![image](https://user-images.githubusercontent.com/91167267/211445984-4238714f-3545-4003-9a42-7053bbf2191a.png
 10
 ![image](https://user-images.githubusercontent.com/91167267/211446810-c599abb8-e892-4437-a690-43f9996fc822.png)
 
