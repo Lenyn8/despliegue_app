@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/91167267/211445315-3238a610-65ff-4d9e-9cd6-989e8bdef6e7.png)
 4 Colocamos el comando cat docker-compose.yml
 ![image](https://user-images.githubusercontent.com/91167267/211445360-c108674d-b50b-491b-8f14-6cc7fd8e6f26.png)
-5
+5 Colocamos el comando docker-compose up -d (sirve para descargar las librerias, si ya estan cargadas nos salen que ya estan corriendo)
 ![image](https://user-images.githubusercontent.com/91167267/211445402-a4cc1c28-3ef4-40ec-830c-8e8dff9c0d74.png)
 6
 ![image](https://user-images.githubusercontent.com/91167267/211445736-c8925f8e-1f6f-4605-9000-4c6c45285862.png)
