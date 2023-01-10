@@ -18,7 +18,7 @@
 8 Creamos un documento llamado Dockerfile (vi Dockerfile)
 ![image](https://user-images.githubusercontent.com/91167267/211445872-f648dda6-2fbc-4b60-8d89-8ced9c7abba2.png)
 9 Colocamos el comando docker build -t myapp .
-![image](https://user-images.githubusercontent.com/91167267/211445984-4238714f-3545-4003-9a42-7053bbf2191a.png
+![image]_(https://user-images.githubusercontent.com/91167267/211445984-4238714f-3545-4003-9a42-7053bbf2191a.png
 10
 ![image](https://user-images.githubusercontent.com/91167267/211446810-c599abb8-e892-4437-a690-43f9996fc822.png)
 
@@ -31,3 +31,6 @@ Aplicaccion Frontend
 
 
 ![image](https://user-images.githubusercontent.com/91167267/211447399-3650b6f0-37da-47e1-8e8f-dfea97baca50.png)
+
+
+
