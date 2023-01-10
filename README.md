@@ -3,7 +3,7 @@
 # despliegue_app
 1 Ponemos pwd para ver en que directo nos encontramos
 ![image](https://user-images.githubusercontent.com/91167267/211444544-5d9c322e-89f0-448b-8ede-4dc89729d03f.png)
-2
+2 Ponemos el comando vi docker-compose.yml para verificar el codigo que copiamos (para guardar y salir ponemos ------> wq )
 ![image](https://user-images.githubusercontent.com/91167267/211445137-1532782d-3ad4-4da8-b20f-64d94edaeaa3.png)
 3
 ![image](https://user-images.githubusercontent.com/91167267/211445315-3238a610-65ff-4d9e-9cd6-989e8bdef6e7.png)
